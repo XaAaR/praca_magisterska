@@ -1,0 +1,30 @@
+2013-04-15 18:26:31.278|DEX[INFO] ** START ** 2013-04-15 18:26:31.278 Software version: 4.7.1
+2013-04-15 18:26:31.278|DEX[INFO] No license code
+2013-04-15 18:26:31.278|DEX[INFO] Scheduler started with 1 active threads.
+2013-04-15 18:26:31.341|DEX[INFO] GraphPool 'HelloDex' has been created at HelloDex.dex
+2013-04-15 18:26:59.497|DEX[INFO] ** START ** 2013-04-15 18:26:59.496 Software version: 4.7.1
+2013-04-15 18:26:59.497|DEX[INFO] No license code
+2013-04-15 18:26:59.497|DEX[INFO] Scheduler started with 1 active threads.
+2013-04-15 18:26:59.538|DEX[INFO] GraphPool 'HelloDex' has been created at HelloDex.dex
+2013-04-15 18:26:59.549|Graph[SEVERE] Can not get the attribute because the object (1025) type is not the type of the given attribute.
+2013-04-15 18:27:44.353|DEX[INFO] ** START ** 2013-04-15 18:27:44.353 Software version: 4.7.1
+2013-04-15 18:27:44.353|DEX[INFO] No license code
+2013-04-15 18:27:44.353|DEX[INFO] Scheduler started with 1 active threads.
+2013-04-15 18:27:44.405|DEX[INFO] GraphPool 'HelloDex' has been created at HelloDex.dex
+2013-04-15 18:30:08.026|DEX[INFO] ** START ** 2013-04-15 18:30:08.026 Software version: 4.7.1
+2013-04-15 18:30:08.026|DEX[INFO] No license code
+2013-04-15 18:30:08.026|DEX[INFO] Scheduler started with 1 active threads.
+2013-04-15 18:30:08.085|DEX[INFO] GraphPool 'HelloDex' has been created at HelloDex.dex
+2013-04-15 18:35:11.706|DEX[INFO] ** START ** 2013-04-15 18:35:11.706 Software version: 4.7.1
+2013-04-15 18:35:11.706|DEX[INFO] No license code
+2013-04-15 18:35:11.706|DEX[INFO] Scheduler started with 1 active threads.
+2013-04-15 18:35:11.754|DEX[INFO] GraphPool 'HelloDex' has been created at HelloDex.dex
+2013-04-15 18:35:11.766|Tx[SEVERE] Objects references still active when closing.
+2013-04-15 18:35:53.533|DEX[INFO] ** START ** 2013-04-15 18:35:53.533 Software version: 4.7.1
+2013-04-15 18:35:53.533|DEX[INFO] No license code
+2013-04-15 18:35:53.533|DEX[INFO] Scheduler started with 1 active threads.
+2013-04-15 18:35:53.568|DEX[INFO] GraphPool 'HelloDex' has been created at HelloDex.dex
+2013-04-15 18:35:53.789|GraphPool[INFO] Closed HelloDex.dex
+2013-04-15 18:35:53.789|GraphPool[WARNING] Removed HelloDex.dex.tmp
+2013-04-15 18:35:53.789|DEX[INFO] Scheduler stopped.
+2013-04-15 18:35:53.789|DEX[INFO] ** SHUTDOWN ** 2013-04-15 18:35:53.789
